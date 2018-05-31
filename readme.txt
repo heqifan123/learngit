@@ -4,3 +4,4 @@ Git is my love.
 I want to study the system.
 what's happen?
 Creating a new branch is quick.
+Creating a new branch is quick & simple.
